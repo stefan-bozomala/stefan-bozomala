@@ -27,6 +27,6 @@ Here is where I apply my engineering mindset and track my growth:
 </p>
 <p align="right">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=solidworks" />
+    <img src="https://skillicons.dev/icons?i=autocad" />
   </a>
 </p>
