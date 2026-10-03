@@ -29,6 +29,8 @@ Whether you want to discuss an interesting engineering challenge, talk about dyn
 * **🧠 Tech talk?** Reach out if you want to debate code optimization, embedded systems, or AI loops.
 
 <p align="left">
-  <a href="[https://linkedin.com](https://www.linkedin.com/in/stefan-bozomala/)" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+  <a href="https://www.linkedin.com/in/stefan-bozomala/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
+</p>
+
