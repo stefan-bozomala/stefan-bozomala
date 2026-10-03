@@ -27,7 +27,7 @@ Whether you want to discuss an interesting engineering challenge, talk about dyn
 
 <p align="center">
   <a href="https://linkedin.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedinȚ" alt="LinkedIn" valign="middle" height="32" />
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" valign="middle" height="32" />
   </a>
   <span style="font-size: 16px; margin-left: 8px; vertical-align: middle;">
     <strong>🎯 Looking to hire?</strong> Let's discuss internships or Junior Engineer roles.
