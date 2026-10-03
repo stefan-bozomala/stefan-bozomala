@@ -15,4 +15,4 @@ Here is where I apply my engineering mindset and track my growth:
 * **🧱 OOP Architectures:** Building scalable, maintainable software using clean Object-Oriented design patterns.
 * **🏆 Algorithmic Optimization:** Solving complex logical puzzles with a strict focus on time and memory complexity.
 
-**Tech Stack:** <img src="https://shields.io" alt="C++" /> <img src="https://shields.io" alt="Python" /> <img src="https://shields.io" alt="MATLAB" /> <img src="https://shields.io" alt="Git" /> <img src="https://shields.io" alt="Linux" />
+**Tech Stack:** [![My Skills](https://skillicons.dev/icons?i=c,ccpp,java,python,nodejs,figma&theme=light)](https://skillicons.dev)
