@@ -27,11 +27,13 @@ Whether you want to discuss an interesting engineering challenge, talk about dyn
 
 <p align="center">
   <a href="https://linkedin.com" target="_blank">
-    <img src="https://skillicons.dev" alt="LinkedIn" height="50" />
+    <img src="https://skillicons.dev" alt="LinkedIn" valign="middle" height="32" />
   </a>
-  <br />
-  <strong>🎯 Looking to hire?</strong> Let's discuss internships or Junior Engineer roles.
+  <span style="font-size: 16px; margin-left: 8px; vertical-align: middle;">
+    <strong>🎯 Looking to hire?</strong> Let's discuss internships or Junior Engineer roles.
+  </span>
 </p>
+
 
 * **🧠 Tech talk?** Reach out if you want to debate code optimization, embedded systems, or AI loops.
 
