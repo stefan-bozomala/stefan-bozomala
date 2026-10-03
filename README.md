@@ -15,7 +15,7 @@ Here is where I apply my engineering mindset and track my growth:
 * **🧱 OOP Architectures:** Building scalable, maintainable software using clean Object-Oriented design patterns.
 * **🏆 Algorithmic Optimization:** Solving complex logical puzzles with a strict focus on time and memory complexity.
 
-<p align="left">
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cs,cpp,visualstudio,vscode,java,idea,python,git,mysql,autocad,matlab,arduino" />
   </a>
