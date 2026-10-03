@@ -30,12 +30,11 @@ Whether you want to discuss an interesting engineering challenge, talk about dyn
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" valign="middle" height="32" />
   </a>
   <span style="font-size: 16px; margin-left: 8px; vertical-align: middle;">
-    <strong> Looking to hire?</strong> Let's discuss internships or Junior Engineer roles.
+    <strong>Looking to hire?</strong> Let's discuss internships or Junior Engineer roles.
   </span>
 </p>
 
-
-* **🧠 Tech talk?** Reach out if you want to debate code optimization, embedded systems, or AI loops.
+**🧠 Tech talk?** Reach out if you want to debate code optimization, embedded systems, or AI loops.
 
 
 
