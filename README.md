@@ -27,7 +27,7 @@ Whether you want to discuss an interesting engineering challenge, talk about dyn
 
   * **🎯 Looking to hire?** Let's discuss internships or Junior Engineer roles.
 
-<p align="center">
+<p align="left">
   👉
   <a href="https://www.linkedin.com/in/stefan-bozomala/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
