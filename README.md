@@ -6,6 +6,7 @@ As an Automation and Computer Science student at the **Technical University of C
 
 Instead of just keeping pace, I treat every algorithmic challenge as a step toward mastering this landscape. 💻
 
+
 ## 🚀 The TL;DR About Me
 I am a software engineering enthusiast who thrives at the intersection of **complex mathematical logic** and **practical AI deployment**. Instead of just writing code, I focus on *efficiency, time complexity, and scalable architectures*. I'm currently looking to bring this problem-solving mindset to a high-impact team through an **internship** or **Junior Software Engineer** role.
 
