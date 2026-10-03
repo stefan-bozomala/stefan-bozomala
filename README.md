@@ -1,14 +1,6 @@
-<p align="center">
-  <img src="https://vercel.app" alt="Header Banner" />
-</p>
+# ⚡ STEFAN BOZOMALA | Algorithmic Thinker & AI Explorer
 
-<p align="center">
-  <a href="https://github.com">
-    <img src="https://demolab.com" alt="Typing SVG" />
-  </a>
-</p>
-
-<p align="center">
+<p align="left">
   <img src="https://shields.io" alt="Mission" />
   <img src="https://shields.io" alt="Availability" />
 </p>
