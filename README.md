@@ -26,12 +26,13 @@ Here is where I apply my engineering mindset and track my growth:
 Whether you want to discuss an interesting engineering challenge, talk about dynamic systems, or scout me for a junior role, my digital door is always open.
 
 <p align="left">
+  <span style="font-size: 16px; margin-left: 8px; vertical-align: middle;">
+    <strong>🎯 Looking to hire?</strong> Let's discuss internships or Junior Engineer roles. 👉
+  </span>
   <a href="https://www.linkedin.com/in/stefan-bozomala/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" valign="middle" height="32" />
   </a>
-  <span style="font-size: 16px; margin-left: 8px; vertical-align: middle;">
-    <strong>Looking to hire?</strong> Let's discuss internships or Junior Engineer roles.
-  </span>
+  
 </p>
 
 **🧠 Tech talk?** Reach out if you want to debate code optimization, embedded systems, or AI loops.
