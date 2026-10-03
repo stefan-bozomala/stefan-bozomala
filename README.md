@@ -7,7 +7,6 @@ For me, engineering is about *evolution* and breaking down complex, ever-shiftin
 Instead of just keeping pace, I treat every algorithmic challenge as a step toward mastering this landscape.
 
 ---
-
 ## 🎯 Engineering Focus Areas
 
 Here is where I apply my engineering mindset and track my growth:
