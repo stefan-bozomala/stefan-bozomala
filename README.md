@@ -3,7 +3,7 @@
 ## 🧐 I'm ***Ștefan*** and I don't just follow the trends — I adapt, optimize, and help build the logic behind them.
 
 🚀 As an **Automation and Computer Science** student at the **Technical University of Cluj-Napoca (UTCN)**, I’ve learned that the only constant in technology is continuous change.
-* For me, engineering is about *evolution* and breaking down complex, ever-shifting *systems* into elegant, *high-performance software*.
+* For me, engineering is about *evolution* and breaking down *complex, ever-shifting **systems*** into *elegant, high-performance **software***.
 * Instead of just keeping pace, I treat every algorithmic challenge as a step toward mastering this landscape.
 
 ## 🎯 Engineering Focus Areas
