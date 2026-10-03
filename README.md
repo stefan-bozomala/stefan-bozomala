@@ -10,8 +10,8 @@ Instead of just keeping pace, I treat every algorithmic challenge as a step towa
 
 Here is where I apply my engineering mindset and track my growth:
 
-* **🧠 Intelligent Systems & Applied AI:** System modeling, intelligent automation, and data processing.
-* **🎛️ Embedded Systems & Robotics:** Hardware-software interaction, control loops, and microcontrollers.
+* **🧠 Intelligent Systems & Applied AI:** System modeling, intelligent automation and data processing.
+* **🎛️ Embedded Systems & Robotics:** Hardware-software interaction, control loops and microcontrollers.
 * **🧱 OOP Architectures:** Building scalable, maintainable software using clean Object-Oriented design patterns.
 * **🏆 Algorithmic Optimization:** Solving complex logical puzzles with a strict focus on time and memory complexity.
 
