@@ -20,3 +20,15 @@ Here is where I apply my engineering mindset and track my growth:
     <img src="https://skillicons.dev/icons?i=c,cs,cpp,visualstudio,vscode,java,idea,python,git,mysql,autocad,matlab,arduino" />
   </a>
 </p>
+
+## 📧 Connect With Me
+
+Whether you want to discuss an interesting engineering challenge, talk about dynamic systems, or scout me for a junior role, my digital door is always open.
+
+* **🎯 Looking to hire?** Let's discuss internships or Junior Engineer roles.
+* **🧠 Tech talk?** Reach out if you want to debate code optimization, embedded systems, or AI loops.
+
+<p align="left">
+  <a href="https://linkedin.com" target="_blank">
+    <img src="https://shields.io" alt="LinkedIn" />
+  </a>
