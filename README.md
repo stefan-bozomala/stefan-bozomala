@@ -1,8 +1,16 @@
-# 👨‍💻 Hi, I'm Ștefan Bozomala | Algorithmic Thinker & AI Enthusiast
+<p align="center">
+  <img src="https://vercel.app" alt="Header Banner" />
+</p>
 
-<p align="left">
-  <img src="https://shields.io" alt="Status" />
-  <img src="https://shields.io" alt="Focus" />
+<p align="center">
+  <a href="https://github.com">
+    <img src="https://demolab.com" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://shields.io" alt="Mission" />
+  <img src="https://shields.io" alt="Availability" />
 </p>
 
 ---
