@@ -27,12 +27,11 @@ Whether you want to discuss an interesting engineering challenge, talk about dyn
 
 <p align="left">
   <span style="font-size: 16px; margin-left: 8px; vertical-align: middle;">
-    <strong> * **🎯 Looking to hire?** </strong> Let's discuss internships or Junior Engineer roles.   👉
+    <strong> * **🎯 Looking to hire?** </strong> Let's discuss internships or Junior Engineer roles. 👉
   </span>
   <a href="https://www.linkedin.com/in/stefan-bozomala/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" valign="middle" height="32" />
   </a>
-  
 </p>
 
 * **🧠 Tech talk?** Reach out if you want to debate code optimization, embedded systems, or AI loops.
