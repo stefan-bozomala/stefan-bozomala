@@ -17,7 +17,7 @@ Here is where I apply my engineering mindset and track my growth:
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cs,cpp,visualstudio,vscode,java,idea,python,git,mysql,autocad,matlab,arduino" />
+    <img src="https://skillicons.dev/icons?i=c,cs,cpp,visualstudio,vscode,java,idea,python,git,mysql,shell,autocad,matlab,arduino" />
   </a>
 </p>
 
